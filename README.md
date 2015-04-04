@@ -8,7 +8,7 @@ Tenter de fournir de l'énergie à partir de conduits d'eau type goutière.
 
 ## Tâches réalisées
 
-## Tâche à faire
+## Tâches à faire
 - [ ] Calculs de viabilité. Responsable - Indéfini
 - [ ] On verra plus tard
 
