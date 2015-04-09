@@ -9,7 +9,7 @@ Tenter de fournir de l'énergie à partir de conduits d'eau type goutière.
 ## Tâches réalisées
 
 ## Tâches à faire
-- [ ] Calculs de viabilité. Nicolas A, détermination de la puissance en bas de la gouttière.
+- [ ] Calculs de viabilité. responsable : Nicolas A, détermination de la puissance en bas de la gouttière.
 - [ ] On verra plus tard
 
 # English Version
