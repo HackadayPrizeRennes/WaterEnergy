@@ -1,0 +1,42 @@
+
+Force poussée colonne eau:
+ F = masse vol * Vol * g
+(N)  (kg.m-3)    (m3) (m.s-2)
+
+Puissance:
+ P = F * Vitesse
+(W) (N)  (m.s-1)
+
+   = masse vol * Vol * g * Vitesse
+avec Vitesse = hauteur/temps:
+   = masse vol * Vol * g * h / t
+avec Débit: Q = Vol/temps:
+ P = masse vol  *  g    *   Q   *  h
+(W)  (kg.m-3)   (m.s-2) (m3.s-1)  (m)
+
+
+Quantité de pluie:
+Explications pluviométrie: http://www.encyclo-ecolo.com/Pluviom%C3%A9trie_en_France#La_pluviom.C3.A9trie.2C_qu.27est_ce_c.27est_.3F
+http://www.meteofrance.com/climat/france
+=> quantité moyenne de pluie: 700mm /an <=> 700 L/m2 /an <=> 1.92 L/m2 /jour <=> 1.92.10-3 m3/m2 /jour
+
+Hypothèse: toit de maison avec surface de 100m2
+Quantité eau = 0.192 m3/jour
+             = 2.22.10-6 m3/seconde
+
+Hypothèse: hauteur moyenne de la colonne d'eau: 1m
+
+P = 1000 * 9.81 * 2.22.10-6 * 1
+  = 0.021W
+
+Combien de temps faudrait-il pour charge une batterie de tél portable ?
+avec batterie 1500mA.h, 5V
+0.021W <=> 4.2mA @5V
+=> 357h <=> 15 jours
+
+15 jours de pluie pour charger une batterie de tél portable !!!
+
+Il faudrait une hauteur de colonne d'eau beacoup plus élevée...
+
+A moins que j'ai fait une erreur de calcul ?
+Quelqu'un peut vérifier ?
